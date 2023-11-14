@@ -1,0 +1,7 @@
+logo: /assets/img/logo.png
+logo_org: /assets/img/codra.png
+show_downloads: true
+theme: jekyll-theme-minimal
+github:
+  zip_url: https://github.com/CODRA-Ingenierie-Informatique/DataLab/releases
+  tar_url: https://pypi.org/project/cdlapp/
