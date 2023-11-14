@@ -1,4 +1,4 @@
-![DataLab - The open-source data processing and visualization platform](https://raw.githubusercontent.com/CODRA-Ingenierie-Informatique/DataLab/master/doc/images/DataLab-banner.png)
+![DataLab - The open-source data processing and visualization platform](https://raw.githubusercontent.com/CODRA-Ingenierie-Informatique/DataLab/master/doc/images/DataLab-Overview.png)
 
 [![license](https://img.shields.io/pypi/l/cdlapp.svg)](./LICENSE)
 [![pypi version](https://img.shields.io/pypi/v/cdlapp.svg)](https://pypi.org/project/cdlapp/)
