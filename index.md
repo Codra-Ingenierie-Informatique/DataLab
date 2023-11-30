@@ -1,9 +1,9 @@
 ![DataLab - The open-source data processing and visualization platform](https://raw.githubusercontent.com/CODRA-Ingenierie-Informatique/DataLab/master/doc/images/DataLab-Overview.png)
 
-[![license](https://img.shields.io/pypi/l/cdlapp.svg)](./LICENSE)
-[![pypi version](https://img.shields.io/pypi/v/cdlapp.svg)](https://pypi.org/project/cdlapp/)
-[![PyPI status](https://img.shields.io/pypi/status/cdlapp.svg)](https://github.com/CODRA-Ingenierie-Informatique/DataLab)
-[![PyPI pyversions](https://img.shields.io/pypi/pyversions/cdlapp.svg)](https://pypi.python.org/pypi/cdlapp/)
+[![license](https://img.shields.io/pypi/l/cdl.svg)](./LICENSE)
+[![pypi version](https://img.shields.io/pypi/v/cdl.svg)](https://pypi.org/project/CDL/)
+[![PyPI status](https://img.shields.io/pypi/status/cdl.svg)](https://github.com/Codra-Ingenierie-Informatique/DataLab)
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/cdl.svg)](https://pypi.python.org/pypi/CDL/)
 
 ℹ️ Created by [Codra](https://codra.net/)/[Pierre Raybaut](https://github.com/PierreRaybaut) in 2023, developed and maintained by DataLab open-source project team.
 
