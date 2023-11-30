@@ -4,4 +4,4 @@ show_downloads: true
 theme: jekyll-theme-minimal
 github:
   zip_url: https://github.com/CODRA-Ingenierie-Informatique/DataLab/releases
-  tar_url: https://pypi.org/project/cdlapp/
+  tar_url: https://pypi.org/project/cdl/
