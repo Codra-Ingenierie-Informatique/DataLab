@@ -12,6 +12,10 @@
 
 ![PlotPyStack](https://raw.githubusercontent.com/PlotPyStack/.github/main/data/plotpy-stack-powered.png)
 
+ℹ️ DataLab is built on Python and scientific libraries.
+
+![Python](https://raw.githubusercontent.com/CODRA-Ingenierie-Informatique/DataLab/gh-pages/logos/Python.png) ![NumPy](https://raw.githubusercontent.com/CODRA-Ingenierie-Informatique/DataLab/gh-pages/logos/NumPy.png) ![SciPy](https://raw.githubusercontent.com/CODRA-Ingenierie-Informatique/DataLab/gh-pages/logos/SciPy.png) ![scikit-image](https://raw.githubusercontent.com/CODRA-Ingenierie-Informatique/DataLab/gh-pages/logos/scikit-image.png) ![OpenCV](https://raw.githubusercontent.com/CODRA-Ingenierie-Informatique/DataLab/gh-pages/logos/OpenCV.png) ![PlotPyStack](https://raw.githubusercontent.com/CODRA-Ingenierie-Informatique/DataLab/gh-pages/logos/plotpystack.png)
+
 ----
 
 ## Overview
